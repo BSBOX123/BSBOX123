@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20There!%20I'm%20피티피티%20👋&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20There!%20I'm%20SeungYoon's%20👋&fontSize=40" />
 
 ### 안녕하세요! 👋
 
