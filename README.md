@@ -49,3 +49,34 @@
   <img src="https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF?style=flat&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat&logo=python&logoColor=white"/>
 </p>
+
+
+---
+
+<h3 align="center">👤 About Me</h3>
+
+<p align="center">
+  안녕하세요. 개발자로 살아가기 위해 공부하고 있는 김승윤입니다.<br>
+  현재는 대학을 다니면서 공부하고 있고 앞으로 많은 프로젝트에 참여하며 <br>
+  경험을 쌓을 계획입나다. 열심히 하겠습니다.
+</p>
+
+<p align="center">
+  항상 발전하는 개발자가 될 수 있도록 노력하겠습니다.<br>
+  감사합니다😊.
+</p>
+
+<br>
+<br>
+
+<p align="center">
+  Hello, my name is Seungyoon Kim, and I am currently studying to become a developer.<br>
+  I’m attending university while continuing to learn and grow,<br>
+  and I plan to gain experience by participating in many projects in the future.<br> 
+  I will do my best.
+</p>
+
+<p align="center">
+  I will strive to become a developer who is always improving.<br>
+  Thank you 😊
+</p>
