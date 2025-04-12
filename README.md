@@ -8,10 +8,10 @@
 </p>
 
 <ul align="center">
-  <li>🌱 배우는 중: </li>
-  <li>🔭 진행 중인 프로젝트: </li>
-  <li>🛠️ 주로 사용하는 기술: </li>
-  <li>📫 연락: <a href="mailto:youremail@example.com">youremail@example.com</a></li>
+  🌱 배우는 중: 
+  🔭 진행 중인 프로젝트:
+ 🛠️ 주로 사용하는 기술: 
+  📫 연락: <a href="mailto:kimsunyun120@gmail.com">youremail@example.com</a>
 </ul>
 
 
