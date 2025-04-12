@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=95e594&height=200&section=header&text=SeungYoon's%20GitHub&fontSize=40&fontColor=459be6" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=95e594&height=200&section=header&text=SeungYoon's%20GitHub&fontSize=40&fontColor=459be6" />
+</p>
 
 <h2 align="center">### 안녕하세요! 👋
 
